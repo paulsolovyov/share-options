@@ -1,12 +1,15 @@
 # Mage2 Module PaulSolovyov ShareOptions
 
-    ``paulsolovyov/shareoptions``
+    ``paulsolovyov/share-options``
 
  - [Main Functionalities](#markdown-header-main-functionalities)
  - [Installation](#markdown-header-installation)
  - [Configuration](#markdown-header-configuration)
  - [Specifications](#markdown-header-specifications)
  - [Attributes](#markdown-header-attributes)
+
+## Based on serialize.js from Chris Ferdinandi
+https://vanillajstoolkit.com/helpers/serialize/
 
 
 ## Main Functionalities
