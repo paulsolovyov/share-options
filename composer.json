@@ -1,0 +1,21 @@
+{
+    "name": "paulsolovyov/share-options",
+    "description": "Tokenizes Custom / Bundle / Group Products and creates a custom link to specific product configuration ",
+    "type": "magento2-module",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Paul Solovyov"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "PaulSolovyov\\ShareOptions\\": ""
+        }
+    }
+}

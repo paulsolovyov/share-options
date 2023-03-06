@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+	<default>
+		<shareoptions>
+			<shareoptions_settings>
+				<shareoptions_enable_disable/>
+				<shareoptions_button_title>Share</shareoptions_button_title>
+			</shareoptions_settings>
+		</shareoptions>
+	</default>
+</config>
